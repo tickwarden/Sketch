@@ -141,3 +141,17 @@
 # @within * sketch:**
     #declare predicate open:chest_minecart
     #declare predicate open:ender_chest
+
+
+#> v2.1.0 additions
+# @public
+    #declare function sketch:api/refresh_menu
+    #declare function sketch:api/fill_row
+    #declare function sketch:api/sound
+
+
+#> v2.2.0 additions
+# @public
+    #declare function sketch:api/fill_border
+    #declare function sketch:api/actionbar
+    #declare function sketch:api/paginate

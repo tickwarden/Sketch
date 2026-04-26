@@ -18,3 +18,8 @@
     execute if data storage sketch:data {Version:"2.0.2"} run function sketch:core/migration/2.0.3/_
     execute if data storage sketch:data {Version:"2.0.3"} run function sketch:core/migration/2.0.4/_
     execute if data storage sketch:data {Version:"2.0.4"} run function sketch:core/migration/2.0.5/_
+## 2.1.x
+    execute if data storage sketch:data {Version:"2.0.5"} run function sketch:core/migration/2.1.0/_
+
+## 2.2.x
+    execute if data storage sketch:data {Version:"2.1.0"} run function sketch:core/migration/2.2.0/_
