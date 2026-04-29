@@ -155,3 +155,10 @@
     #declare function sketch:api/fill_border
     #declare function sketch:api/actionbar
     #declare function sketch:api/paginate
+
+
+#> v2.3.0 additions
+# @public
+    #declare function sketch:api/title
+    #declare function sketch:api/fill_checker
+    #declare function sketch:api/page_controls
